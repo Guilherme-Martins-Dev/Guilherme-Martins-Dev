@@ -1,5 +1,5 @@
 <h1 aling = "left"> Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> My name is GUilherme Martins 🌑</h1>
-<img height = "120em" align = "right" src = "https://media.giphy.com/media/BzYPuOs45IDoA/giphy.gif">
+<img height = "120em" align = "right" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU3NndzeDhoYXRmemg5NmQ1cHVuaHVndXhoZHJxMmNhcGpoc2JlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Guilherme-Martins-Dev&color=green" alt="Profile views" /> </p>
 
