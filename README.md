@@ -20,7 +20,7 @@
   <img aling = "center" alt = "rafa" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
   <!-- tools -->
-  <img aling = "center" alt = "vscode" height = "40" width = "40" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU3NndzeDhoYXRmemg5NmQ1cHVuaHVndXhoZHJxMmNhcGpoc2JlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
+  <img aling = "center" alt = "vscode" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 ##
