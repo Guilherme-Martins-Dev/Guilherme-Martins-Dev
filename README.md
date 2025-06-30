@@ -1,7 +1,7 @@
 <h1 aling = "left"> Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> My name is GUilherme Martins 🌑</h1>
 <img height = "120em" align = "right" src = "https://media.giphy.com/media/BzYPuOs45IDoA/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Distruidor80&color=green" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Guilherme-Martins-Dev&color=green" alt="Profile views" /> </p>
 
 - ☕ I turn coffee into code...
 - 🔭 I'm currently working in JAVA...
@@ -10,7 +10,7 @@
 
 <div style = "display: inline_block" align = "center"><br>
   <h2>languagens and tools</h2>
-  <a href = "https://github.com/Distruidor80">
+  <a href = "https://github.com/Guilherme-Martins-Dev">
   <!-- languagens -->
   <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img aling = "center" alt = "rafa-Js" height = "40" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -26,9 +26,9 @@
 ##
 
 <div>
-  <a href = "https://github.com/Distruidor80">
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/?username=Distruidor80&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Distruidor80&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <a href = "https://github.com/Guilherme-Martins-Dev">
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/?username=Guilherme-Martins-Dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Martins-Dev&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
   
 ##
